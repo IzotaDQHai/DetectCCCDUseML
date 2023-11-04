@@ -1,0 +1,16 @@
+12so_back
+12so_front
+9so_back
+9so_front
+birth_day
+chip_back
+chip_front
+expire_date
+gender
+id
+issue_date
+issue_place
+name
+nationality
+origin_location
+recent_location
